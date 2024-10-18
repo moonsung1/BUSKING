@@ -1,0 +1,33 @@
+.address-input-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  .address-input {
+    width: 380px;
+    padding: 10px;
+    margin: 10px ;
+    border: 2px solid #61dafb;
+    border-radius: 5px;
+  }
+  
+  .file-input {
+    width: 400px;
+    margin: 10px 18px;
+  }
+  
+  .address-button, .file-button {
+    padding: 10px 20px;
+    background-color: #61dafb;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .address-button:hover, .file-button:hover {
+    background-color: #21a1f1;
+  }
+  

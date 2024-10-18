@@ -1,0 +1,28 @@
+.address-list {
+    margin-top: 20px;
+  }
+  
+  .address-item {
+    margin: 10px;
+    border: 2px solid #61dafb; 
+    border-radius: 15px;      
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex; 
+    justify-content: space-between; 
+  }
+  
+  .address-title {
+    font-family: 'Arial', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 20px; 
+    border: 2px solid #61dafb; 
+    border-radius: 5px; 
+    padding: 10px; 
+  }
+  
+  .delete-button {
+    
+    margin-left: 10px;
+  }
